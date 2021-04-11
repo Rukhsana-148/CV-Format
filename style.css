@@ -1,0 +1,237 @@
+.adress{
+    background-color: #FFC001; 
+    width : 100%;
+}
+
+.skill{
+    background-color: #3C3839;
+    color:white;
+}
+@media (min-width : 768px) and (max-width : 1024px){
+    .pic{
+        padding-left: 30px;
+    }
+    .adress{
+        width : 300px;
+          padding-top: 10px;
+          padding-bottom: 30px;
+          padding-right: 15px;
+          padding-left: 10px;
+    }
+    .name{
+        margin-left: 65px;
+        padding-bottom: 100px;
+        padding-top: 140px;
+        padding-right: 100px;
+        color : darkblue;
+    }
+    .name h1{
+        padding-right: 100px;
+    }
+    .job{
+        margin-left : -50px;
+        padding-left: -20px;
+        width : 480px;
+        margin-top : 1px;
+    }
+    .job h4{
+        text-align: center;
+    }
+    .description{
+           margin-left: 10px;
+           width : 430px;
+    }
+    .description h5{
+        padding-left: 10px;
+        font-weight: bold;
+    }
+    .description .port{
+       padding-left: 10px;
+       padding-right: 5px;
+       margin-top : 30px;
+    }
+    .skill{
+        width : 300px;
+        padding-left: 20px;
+        padding-right: 10px;
+        padding-bottom : 10px;
+    }
+    .skill h4{
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .academic{
+        width : 300px;
+        padding-left: 20px;
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+    .academic h4{
+        padding-bottom: 10px;
+    }
+    .work{
+        width : 430px;
+        margin-left: 10px;
+        padding-right: 10px;
+    }
+    .work h5{
+        padding-left: 20px;
+    }
+    .work .exp{
+        padding-left: 10px;
+    }
+    .work ul li{
+        list-style: disc;
+    }
+    .work-1{
+        width : 430px;
+        margin-left: 10px;
+        padding-right: 10px;
+    }
+    .work-1 h5{
+        padding-left: 20px;
+    }
+    .work-1 .exp{
+        padding-left: 10px;
+    }
+    .work-2{
+        width : 430px;
+        margin-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+    }
+    .work-2 h5{
+        padding-left: 20px;
+    }
+    .work-2 .exp{
+        padding-left: 10px;
+    }
+    span{
+        padding-left: 180px;
+    }
+
+
+}
+@media screen and (min-width : 360px) and (max-width : 640px){
+    span{
+        padding-left: 100px;
+    }
+    .adress{
+        width : 250px;
+          padding-top: 10px;
+          padding-bottom: 30px;
+          padding-right: 15px;
+          padding-left: 10px;
+    }
+    .name{
+        margin-left: 120px;
+        padding-bottom: 100px;
+        padding-top: 140px;
+        padding-right: 100px;
+        color : darkblue;
+    }
+    .name h1{
+        padding-right: 100px;
+    }
+    .job{
+        padding-left: 90px;
+        margin-left : 70px;
+        width : 360px;
+        margin-top : 1px;
+    }
+    .job h4{
+        text-align: center;
+    }
+    .description{
+           margin-left: 90px;
+           width : 350px;
+    }
+    .description h5{
+        padding-left: 10px;
+        font-weight: bold;
+    }
+    .description .port{
+       padding-left: 10px;
+       padding-right: 5px;
+       margin-top : 30px;
+    }
+    .skill{
+        width : 250px;
+        padding-left: 20px;
+        padding-right: 10px;
+        padding-bottom : 10px;
+    }
+    .skill h4{
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .academic{
+        width : 250px;
+        padding-left: 20px;
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+    .academic h4{
+        padding-bottom: 10px;
+    }
+    .work{
+        width : 350px;
+        margin-left: 90px;
+        padding-right: 10px;
+    }
+    .work h5{
+        padding-left: 20px;
+    }
+    .work .exp{
+        padding-left: 10px;
+    }
+    .work ul li{
+        list-style: disc;
+    }
+    .work-1{
+        width : 350px;
+        margin-left: 90px;
+        padding-right: 10px;
+    }
+    .work-1 h5{
+        padding-left: 20px;
+    }
+    .work-1 .exp{
+        padding-left: 10px;
+    }
+    .work-2{
+        width : 350px;
+        margin-left: 90px;
+        padding-right: 10px;
+        padding-bottom: 50px;
+    }
+    .work-2 h5{
+        padding-left: 20px;
+    }
+    .work-2 .exp{
+        padding-left: 10px;
+    }
+
+}
+
+.prg{
+    height : 50px;
+}
+.academic{
+    color : white;
+    background-color:  #3C3839;
+}
+.pic{
+    background-color: #C8C7C5;
+}
+.right .name{
+    background-color: #FFFFFF;
+}
+.right .job{
+    background-color: #FFC001;
+}
+.right .job h3{
+    text-align: center;
+}
